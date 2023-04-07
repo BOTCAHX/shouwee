@@ -39,6 +39,7 @@ const singkatankata = require("./lib/singkatankata");
 const quran = require("./lib/alquran");
 const instagram = require("./lib/instagram");
 const freefireid = require("./lib/freefireid");
+const ssweb = require("./lib/tools/ssweb")
 const wall_alphacoders = require("./lib/wall.alphacoders.js");
 const quotesanime = require("./lib/random/quotesanime");
 const mediafire = require("./lib/mediafire");
@@ -119,6 +120,7 @@ module.exports = {
     isporn,
     textpro,
     subfinder,
+    ssweb,
   },
   game: {
     family100,
