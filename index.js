@@ -40,6 +40,7 @@ const quran = require("./lib/alquran");
 const instagram = require("./lib/instagram");
 const freefireid = require("./lib/freefireid");
 const ssweb = require("./lib/tools/ssweb")
+const ups = require("./lib/tools/upscaler")
 const wall_alphacoders = require("./lib/wall.alphacoders.js");
 const quotesanime = require("./lib/random/quotesanime");
 const mediafire = require("./lib/mediafire");
@@ -121,6 +122,7 @@ module.exports = {
     textpro,
     subfinder,
     ssweb,
+    ups,
   },
   game: {
     family100,
