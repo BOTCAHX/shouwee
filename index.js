@@ -69,6 +69,7 @@ module.exports = {
   },
   stress,
   downloader: {
+    twmedia,
     yt: youtube,
     tiktok,
     tiktok2,
