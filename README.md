@@ -3,8 +3,8 @@
 # Installation
 
 
-`npm i github:fvzy/shouwee`
-
+`npm i github:fvzy/shouwee`</br>
+`yarn add git+https://github.com/fvzy/shouwee`
 
 
 
