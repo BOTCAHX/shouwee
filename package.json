@@ -1,6 +1,6 @@
 {
-  "name": "@fvzy/shouwee",
-  "version": "1.0.4",
+  "name": "shouwee",
+  "version": "1.0.5",
   "description": "Simple Scraper Javascript, Recoded and updated from Caliph-api",
   "depecrated": false,
   "main": "index.js",
