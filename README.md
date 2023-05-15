@@ -1,19 +1,17 @@
-# caliph-api
+
 
 # Installation
 
-## Latest
 
-`npm i github:caliphdev/caliph-api`
+`npm i github:fvzy/shouwee`
 
-## Npm
 
-`npm i caliph-api`
+
 
 # Require
 
 ```js
-const api = require("caliph-api");
+const api = require("shouwee");
 ```
 
 # Docs
