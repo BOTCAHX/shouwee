@@ -14,6 +14,7 @@ const youtube = require("./lib/youtube");
 const fakeua = require("./lib/fakeua");
 const tiktok2 = require("./lib/tiktok2");
 const tiktok = require("./lib/tiktok");
+const twmedia = require("./lib/twittermedia')
 const igstalk = require("./lib/igstalk");
 const carigrup = require("./lib/grupwa");
 const happymod = require("./lib/happymod");
