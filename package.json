@@ -1,7 +1,7 @@
 {
-  "name": "caliph-api",
+  "name": "@fvzy/shouwee",
   "version": "1.0.4",
-  "description": "Simple API by Caliph",
+  "description": "Simple Scraper Javascript, Recoded and updated from Caliph-api",
   "depecrated": false,
   "main": "index.js",
   "directories": {
@@ -24,17 +24,17 @@
     "multifunctions",
     "scrapers"
   ],
-  "homepage": "https://caliph-api.js.org/",
+  "homepage": "https://shouwee.zyy.sh/",
   "author": {
-    "name": "caliphdev",
-    "email": "admin@caliph.my.id"
+    "name": "Ditzzy",
+    "email": "hello@zyy.sh"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/caliphdev/caliph-api.git"
+    "url": "git+https://github.com/fvzy/shouwee.git"
   },
   "bugs": {
-    "url": "https://github.com/caliphdev/caliph-api/issues"
+    "url": "https://github.com/cfvzy/shouwee/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
